@@ -56,11 +56,13 @@ Manage your health points to stay alive across levels, and adjust game settings 
 ## Demo
 
 To view a demo of the complete VR game, please contact me directly. You could see some scripts and the Pitch Bible with some photo of the principal sceene and enemies.
-See the Video Demo at https://drive.google.com/file/d/1fdw1umP2ff_8M9ZBkBYp_bmgr0RwfRXk/view?usp=drive_link
+You can view the demo at the following link: https://drive.google.com/file/d/1fdw1umP2ff_8M9ZBkBYp_bmgr0RwfRXk/view?usp=drive_link
 
+
+---
 ## Contact
 
-For more information, feedback, or inquiries, please contact me at fabio.dimola98@gmail.com
----
+For more information contact me at fabio.dimola98@gmail.com
+
 
 Enjoy your adventure in VR! 🎮
