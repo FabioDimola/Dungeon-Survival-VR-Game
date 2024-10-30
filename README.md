@@ -55,7 +55,8 @@ Manage your health points to stay alive across levels, and adjust game settings 
 
 ## Demo
 
-To view a demo of the complete VR game, please contact me directly.
+To view a demo of the complete VR game, please contact me directly. You could see some scripts and the Pitch Bible with some photo of the principal sceene and enemies.
+See the Video Demo at 
 
 ---
 
